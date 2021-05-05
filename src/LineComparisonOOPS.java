@@ -2,7 +2,7 @@
 public class LineComparisonOOPS {
 
 	public static void main(String[] args) {
-		System.out.println("====>  Wellcome To line Comparison Computation Program on Master Branch  <====");
+		System.out.println("  ====>  Wellcome To line Comparison Computation Program on Master Branch  <==== ");
 		lineFunction lineFunctionObject = new lineFunction();
 		int x1 = lineFunctionObject.getLineValue();
 		int x2 = lineFunctionObject.getLineValue();
